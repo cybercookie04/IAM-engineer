@@ -1,0 +1,4 @@
+Remove-EntraUser
+
+    -UserId <String>
+    [<CommonParameters>]
