@@ -1,4 +1,4 @@
-New-EntraUser #
+New-EntraUser
 
     -DisplayName <String>
     -AccountEnabled <Boolean>
