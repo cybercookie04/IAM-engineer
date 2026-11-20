@@ -1,0 +1,5 @@
+Get-EntraAuthenticationMethodUserRegistrationDetailReport
+
+    -UserRegistrationDetailsId <String>
+    [-Property <String[]>]
+    [<CommonParameters>]
