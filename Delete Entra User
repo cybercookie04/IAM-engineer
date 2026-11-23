@@ -1,4 +1,4 @@
-Remove-EntraUser
+Remove-EntraUser #user deletion
 
     -UserId <String>
     [<CommonParameters>]
